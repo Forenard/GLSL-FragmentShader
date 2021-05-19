@@ -1,6 +1,6 @@
 # GLSL-FragmentShader
 
-GLSL FragmentShader Source Code & GIF Gallary
+GLSL FragmentShader Source Code & GIF Gallery
 
 ## Products
 
@@ -10,6 +10,6 @@ GLSL FragmentShader Source Code & GIF Gallary
 ![1](./Products/1/1.gif)
 
 ### 2(2021/05/18)
-- 回転、ライトを意識して作った
+- [回転、ライトを意識して作った](./Products/2/2.glsl)
 
 ![2](./Products/2/2.gif)
