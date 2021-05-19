@@ -1,6 +1,6 @@
 # GLSL-FragmentShader
 
-GLSL FragmentShader Source Code
+GLSL FragmentShader Source Code & GIF Gallary
 
 ## Products
 
